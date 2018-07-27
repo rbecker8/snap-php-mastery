@@ -52,3 +52,7 @@ $userPhone=5053350987;
 var_dump($userAge);
 var_dump($userEmail);
 var_dump($userPhone);
+
+$user_data=array(28, 'johndoe@gmail.com', 5053350987);
+var_dump($user_data);
+
